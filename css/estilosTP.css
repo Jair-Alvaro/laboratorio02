@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia[Roboto&effect=shadow-multiple&display=swap');
+body{
+    background-color: black;   
+}
+.texto{
+    padding: 10px;
+    border: 10px solid #457b9d;
+    border-radius: 20px 0px 10px 0px;
+    float: left;
+    width: 50%;
+    font-family: 'Lucida Handwriting',cursive;
+}
+.imagen{
+    float: right;
+    width: 45%;
+}
+h1, h2{
+    color: #0091ad;
+}
+.presentacion,ul{   
+    color: rgb(255, 255, 255);
+    text-align: justify;
+}
+.de{
+    float: left;
+    width: 50%;
+    
+}
+
+.material-icons{
+    font-size: 2em;
+    color:rgb(20, 220, 200)
+}
